@@ -111,6 +111,10 @@ contributions:
       name: "Larry Campfire"
     url: "https://editor.p5js.org/Larry/full/F6j0Ztv33"
     source: "https://editor.p5js.org/Larry/sketches/F6j0Ztv33"
+  - title: "Higher order bezier curves with processing.py"
+    author: "SpOmLoL"
+    url: "https://github.com/spomlol/processingBezier"
+    source: "https://github.com/spomlol/processingBezier"
 ---
 
 Have you ever wanted to know more about bézier curves in p5.js? Thanks to a generous donation from Jason Oswald, I do a deep dive exploring the bézier curve function and the math behind the algorithm?
